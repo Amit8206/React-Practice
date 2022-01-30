@@ -19,7 +19,7 @@ export default function Contact(props) {
                 </div>
                 <div className="row">
                     <div className="col-md 5 d-flex justify-content-center">
-                        <img src="about.png" alt="Contact Us" height="400px" width="400px" />
+                        <img src="contact.png" alt="Contact Us" height="400px" width="400px" />
                     </div>
                     <div className="col-md-6">
                         <form>
