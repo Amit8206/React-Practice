@@ -5,7 +5,6 @@ import Contact from './components/Contact';
 import TextForm from './components/TextForm';
 import { useState } from 'react';
 import Alert from './components/Alert';
-import { render } from "react-dom";
 import {
   BrowserRouter,
   Routes,

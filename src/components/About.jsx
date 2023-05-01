@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 
 export default function About(props) {
 
@@ -11,10 +11,10 @@ export default function About(props) {
         backgroundColor: props.mode === 'dark' ? '#042743' : 'white',  // #042743      #04044c
         color: props.mode === 'dark' ? 'white' : 'gray'
     }
-    const btnStyle = {
-        backgroundColor: props.mode === 'dark' ? '#0d0ddf' : 'white',
-        color: props.mode === 'dark' ? 'white' : 'gray'
-    }
+    // const btnStyle = {
+    //     backgroundColor: props.mode === 'dark' ? '#0d0ddf' : 'white',
+    //     color: props.mode === 'dark' ? 'white' : 'gray'
+    // }
 
     // const [btnText, setBtnText] = useState("Enable Dark Mode");
 
